@@ -1,0 +1,5 @@
+{
+  "name": "Phrase to Image Generator",
+  "description": "A web application that converts textual phrases into stunning images using the Gemini API. Simply type in your creative prompt and let the AI bring your vision to life.",
+  "requestFramePermissions": []
+}
